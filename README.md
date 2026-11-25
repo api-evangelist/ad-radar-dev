@@ -66,7 +66,7 @@
 
 Ad Radar provides a tool to discover winning Facebook ads quickly. It tracks Meta ads for hundreds of brands, estimates spend, flags scaling ads, and breaks down creative hooks. Users can explore ad performance, filter by niche, and integrate with Claude via an MCP server for AI‑assisted research.
 
-**Areas:** Advertising · Marketing · AI · Competitive Intelligence · Social Media
+**Areas:** Advertising · Marketing · Artificial Intelligence · Competitive Intelligence · Social Media
 
 ## Ad Radar on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ad Radar Dev Domain Security](https://apis.io/security/ad-radar-dev/ad-radar-dev-domain-security/)
+- [Ad Radar Domain Security](https://apis.io/security/ad-radar-dev/ad-radar-dev-domain-security/)
 
 ## Where to find this API
 
@@ -99,25 +99,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 13.9** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 14.7** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 31.6 |
+| Access clarity | 36.2 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 18.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -135,8 +135,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ad-radar-dev/](https://apis.io/providers/ad-radar-dev/).
 
